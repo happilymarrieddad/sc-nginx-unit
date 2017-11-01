@@ -2,7 +2,7 @@ SC Nginx Unit
 ====================
 
 ## Notes
-THIS IS NOT READY! It is just a placeholder for when nginx unit get's released. I update it properly when nodejs is supported.
+THIS IS NOT READY! It is just a placeholder for when nginx unit gets released. I update it properly when nodejs is supported.
 
 ## Installation
 ```js
